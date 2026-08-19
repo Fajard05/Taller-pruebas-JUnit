@@ -1,0 +1,6 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.test.defaultConfiguration": "JUnit",
+    "java.test.run.task": "test",
+    "java.compile.nullAnalysis.mode": "automatic"
+}

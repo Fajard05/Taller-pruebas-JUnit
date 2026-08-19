@@ -13,3 +13,8 @@ target/
 .DS_Store
 Thumbs.db
 *.log
+lib/
+BuildAndTest.java
+# Archivos .java en raíz (usar src/ en su lugar)
+*.java
+!src/**/*.java
